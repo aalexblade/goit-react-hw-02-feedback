@@ -10,16 +10,12 @@ export const FeedbackBtn = styled.button`
   display: inline-block;
   font-size: 16px;
   cursor: pointer;
-   /* :focus {
-    background-color: #e8eef0;
-   } */
   &:hover,
   &:focus {
     color:  white;
     background-color:#4b6cf3
   }
   &:active {
-    /* color: black; */
     background-color:#0033ff;
   }
   `;
