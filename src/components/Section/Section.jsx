@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import {Heading, Wrapper} from "./Section.styled"
+import { Heading, Wrapper } from "./Section.styled"
 
 
 export const Section = ({ title, children  }) => {
